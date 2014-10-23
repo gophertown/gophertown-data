@@ -1,7 +1,7 @@
 {
     "name": "Jason Moiron",
     "irc": "jmoiron",
-    "irc_channels": [#go-nuts],
+    "irc_channels": ["#go-nuts"],
     "show_avatar": true,
     "email": "jlmoiron@gmail.com",
     "discourse": "",
