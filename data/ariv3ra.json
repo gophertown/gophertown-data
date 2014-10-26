@@ -1,7 +1,7 @@
 {
     "name": "Ange Rivera",
     "irc": "twrivera",
-    "irc_channels": [#openshift,#fosscon,#go-nuts],
+    "irc_channels": ["#openshift","#fosscon","#go-nuts"],
     "show_avatar": false,
     "email": "ariv3ra@gmail.com",
     "discourse": "",
