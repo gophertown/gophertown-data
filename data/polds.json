@@ -1,7 +1,8 @@
 {
     "name": "Peter Olds",
     "irc": "PeterO",
-    "irc_channels": ["#go-nuts"],
+    "irc_channels": ["#go-nuts","##linux","#haproxy","#docker"],
+    "slack": "",
     "show_avatar": true,
     "email": "peter@olds.co",
     "discourse": "",
