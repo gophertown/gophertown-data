@@ -1,0 +1,10 @@
+{
+    "name": "MS Shin",
+    "irc": "anarcher",
+    "irc_channels": ["#go-nuts"],
+    "slack": "anarcher",
+    "show_avatar": true,
+    "email": "anarcher@gmail.com",
+    "twitter": "anarcher",
+    "blog": "http://anarcher.github.io"
+}
