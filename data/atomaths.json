@@ -1,0 +1,14 @@
+{
+    "name": "Jongmin Kim",
+    "irc": "atomaths",
+    "irc_channels": ["#go-nuts"],
+    "slack": "",
+    "show_avatar": true,
+    "email": "",
+    "discourse": "",
+    "reddit": "",
+    "twitter": "atomaths",
+    "blog": "http://blog.golang.kr",
+    "website": "http://golang.kr",
+    "notes": "Go contributor"
+}
