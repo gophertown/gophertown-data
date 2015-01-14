@@ -1,5 +1,5 @@
-gopher listing for gophertown.org
-==================================
+gopher listing for [gophertown.org](http://gophertown.org)
+==========================================================
 
 To add yourself:
    - fork this repo,
