@@ -1,0 +1,8 @@
+{
+    "name": "Luna Duclos",
+    "irc": "PSG_Luna",
+    "irc_channels": ["#appengine", "#gcloud", "#go-nuts"],
+    "show_avatar": true,
+    "email": "luna.duclos@palmstonegames.com",
+    "twitter": "PSG_Luna"
+}
